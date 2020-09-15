@@ -14,5 +14,4 @@ const account = wallet.fromPrivateKey(pk)
 const password = process.env.PASSWORD
 const json = JSON.stringify(account.toV3(password))
 
-console.log('keystore --> :')
 console.log(json);

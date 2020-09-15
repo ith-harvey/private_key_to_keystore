@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethereumjs-wallet": "^0.6.2"
+    "ethereumjs-wallet": "^0.6.5"
   }
 }
